@@ -1,28 +1,28 @@
 [
     {
-        "productname": "himalaya",
-        "productprice": "250sek",
-        "productimage": "himalaya.png"  
+        "productName": "himalaya",
+        "productPrice": "250sek",
+        "productImage": "himalaya.png"  
     },{
         "productName": "morrocan oil",
-        "productprice": "500sek",
-        "productimage": "morro_oil.jpg"   
+        "productPrice": "500sek",
+        "productImage": "morro_oil.jpg"   
     },{
         "productName": "nivia",
-        "productprice": "100sek",
-        "productimage": "nivia.jpg"   
+        "productPrice": "100sek",
+        "productImage": "nivia.jpg"   
     },{
         "productName": "olay",
-        "productprice": "800sek",
-        "productimage": "olay.jpg"   
+        "productPrice": "800sek",
+        "productImage": "olay.jpg"   
     },{
         "productName": "sebamed",
-        "productprice": "600sek",
+        "productPrice": "600sek",
         "productImage": "sebamed.jpg"  
     },{
-        "productname": "vasline",
-        "productprice": "700sek",
-        "productimage": "vasline.png"
+        "productName": "vasline",
+        "productPrice": "700sek",
+        "productImage": "vasline.png"
     }
   ]
   
