@@ -1,0 +1,29 @@
+[
+  {
+      "studentName": "Ramya 1",
+      "studentPhone": "0704745180",
+      "studentMail": "janne@hiveandfive.se",
+      "studentImage": "img_mine.jpg"  
+  },{
+      "studentName": "Ramya 2",
+      "studentPhone": "0704745180",
+      "studentMail": "janne@hiveandfive.se",
+      "studentImage": "img_mine.jpg"   
+  },{
+      "studentName": "Ramya 3",
+      "studentPhone": "0704745180",
+      "studentMail": "janne@hiveandfive.se",
+      "studentImage": "img_mine.jpg"   
+  },{
+      "studentName": "Ramya 4",
+      "studentPhone": "0704745180",
+      "studentMail": "janne@hiveandfive.se",
+      "studentImage": "img_mine.jpg"   
+  },{
+      "studentName": "Ramya 5",
+      "studentPhone": "0704745180",
+      "studentMail": "janne@hiveandfive.se",
+      "studentImage": "img_mine.jpg"  
+  }
+]
+
